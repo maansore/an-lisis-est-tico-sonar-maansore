@@ -490,7 +490,7 @@ h1.hidden {
 code { 
     /*color: #777;*/
     line-height: 1.286em; 
-    font-family: "Consolas", "Lucida Console", "Droid Sans Mono", "Andale Mono", "Monaco", "Lucida Sans Typewriter"; 
+    font-family: "Serif", "Consolas", "Lucida Console", "Droid Sans Mono", "Andale Mono", "Monaco", "Lucida Sans Typewriter"; 
 }
 
 code, tt {
